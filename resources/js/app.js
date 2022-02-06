@@ -18,11 +18,9 @@ import Layout from './layout/Index';
 
 const Shop=()=> {
     return(
-        <div>
-            <Layout>
-                <App />
-            </Layout>
-        </div>
+        <Layout>
+            <App />
+        </Layout>
     )
 }
 
